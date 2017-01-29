@@ -12,7 +12,7 @@ class GuessingGame {
     }
 
     guess() {
-      this.game = math.floor((this.min + this.max) / 2);
+      this.game = Math.floor((this.min + this.max) / 2);
       return game;
     }
 
