@@ -2,7 +2,7 @@ class GuessingGame {
     constructor() {
     	this.min = 0;
     	this.max = 0;
-    	this game = 0;
+    	this.game = 0;
     	return this;
     }
 
