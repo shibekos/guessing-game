@@ -3,7 +3,6 @@ class GuessingGame {
     	this.min = 0;
     	this.max = 0;
     	this.game = 0;
-    	return this;
     }
 
     setRange(min, max) {
