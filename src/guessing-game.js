@@ -18,10 +18,12 @@ class GuessingGame {
 
     lower() {
     	 this.max = this.game;
+    	 return this;
     }
 
     greater() {
     	this.min = this.game;
+    	return this;
     }
 }
 
